@@ -1,0 +1,4 @@
+User-agent: *
+
+
+Sitemap: https://rezhe.github.io/lab/fwbp/cn/sitemap.xml
