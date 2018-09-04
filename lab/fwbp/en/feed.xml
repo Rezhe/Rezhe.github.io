@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Firewall Bypasser</title><subtitle>Yet another shadowsocks servers provider</subtitle><updated>2018-09-04T12:28:26-07:00</updated><id>https://rezhe.github.io/lab/fwbp/en/</id><generator uri="https://rezhe.github.io/lab/fwbp/en/" version="2.0.4">Firewall Bypasser</generator><link rel="alternate" type="text/html" hreflang="en" href="https://rezhe.github.io/lab/fwbp/en/" /><link rel="self" type="application/atom+xml" href="https://rezhe.github.io/lab/fwbp/en/feed.xml" /><author><name>Ruizhe Wang</name><uri>https://rezhe.github.io/lab/fwbp/en/</uri><email>rzwang.ca@gmail.com</email></author><entry><title>Confirm page</title><id>https://rezhe.github.io/lab/fwbp/en/confirm.html</id><link rel="alternate" type="text/html" href="https://rezhe.github.io/lab/fwbp/en/confirm.html" /><published>2018-09-04T00:00:00-07:00</published><updated>2018-09-04T12:14:17-07:00</updated><author><name>Ruizhe Wang</name><uri>https://rezhe.github.io/</uri><email>rzwang.ca@gmail.com</email></author><content type="html" xml:base="https://rezhe.github.io/lab/fwbp/en/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Firewall Bypasser</title><subtitle>Yet another shadowsocks servers provider</subtitle><updated>2018-09-04T12:33:00-07:00</updated><id>https://rezhe.github.io/lab/fwbp/en/</id><generator uri="https://rezhe.github.io/lab/fwbp/en/" version="2.0.4">Firewall Bypasser</generator><link rel="alternate" type="text/html" hreflang="en" href="https://rezhe.github.io/lab/fwbp/en/" /><link rel="self" type="application/atom+xml" href="https://rezhe.github.io/lab/fwbp/en/feed.xml" /><author><name>Ruizhe Wang</name><uri>https://rezhe.github.io/lab/fwbp/en/</uri><email>rzwang.ca@gmail.com</email></author><entry><title>Confirm page</title><id>https://rezhe.github.io/lab/fwbp/en/confirm.html</id><link rel="alternate" type="text/html" href="https://rezhe.github.io/lab/fwbp/en/confirm.html" /><published>2018-09-04T00:00:00-07:00</published><updated>2018-09-04T12:32:44-07:00</updated><author><name>Ruizhe Wang</name><uri>https://rezhe.github.io/</uri><email>rzwang.ca@gmail.com</email></author><content type="html" xml:base="https://rezhe.github.io/lab/fwbp/en/">
           
             &lt;script src=&quot;https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js&quot;&gt;&lt;/script&gt;
 
@@ -7,7 +7,7 @@
 &lt;/script&gt;
 
 &lt;!-- Trigger --&gt;
-&lt;p&gt;&lt;button class=&quot;cnf&quot; data-clipboard-text=&quot; &quot; href=&quot;/pass/&quot;&gt;&lt;a style=&quot;color:#6cab78&quot; href=&quot;/pass/&quot;&gt;
+&lt;p&gt;&lt;button class=&quot;cnf&quot; data-clipboard-text=&quot; &quot; href=&quot;/lab/fwbp/en/pass/&quot;&gt;&lt;a style=&quot;color:#6cab78&quot; href=&quot;/lab/fwbp/en/pass/&quot;&gt;
     Tap here to confirm 
     &lt;/a&gt;
 &lt;/button&gt;&lt;/p&gt;
@@ -16,7 +16,7 @@
           
         
       
-        </content><summary></summary></entry><entry><title>Beta version access button</title><id>https://rezhe.github.io/lab/fwbp/en/beta-version-releaced.html</id><link rel="alternate" type="text/html" href="https://rezhe.github.io/lab/fwbp/en/beta-version-releaced.html" /><published>2018-09-03T00:00:00-07:00</published><updated>2018-09-04T12:15:17-07:00</updated><author><name>Ruizhe Wang</name><uri>https://rezhe.github.io/</uri><email>rzwang.ca@gmail.com</email></author><content type="html" xml:base="https://rezhe.github.io/lab/fwbp/en/">
+        </content><summary></summary></entry><entry><title>Beta version access button</title><id>https://rezhe.github.io/lab/fwbp/en/beta-version-releaced.html</id><link rel="alternate" type="text/html" href="https://rezhe.github.io/lab/fwbp/en/beta-version-releaced.html" /><published>2018-09-03T00:00:00-07:00</published><updated>2018-09-04T12:32:22-07:00</updated><author><name>Ruizhe Wang</name><uri>https://rezhe.github.io/</uri><email>rzwang.ca@gmail.com</email></author><content type="html" xml:base="https://rezhe.github.io/lab/fwbp/en/">
           
             &lt;script src=&quot;https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js&quot;&gt;&lt;/script&gt;
 
@@ -25,7 +25,7 @@
 &lt;/script&gt;
 
 &lt;!-- Trigger --&gt;
-&lt;p&gt;&lt;button class=&quot;btn&quot; data-clipboard-text=&quot;ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZnBLSWNuZEc4bXU=@138.197.135.247:41857/?outline=1&quot; href=&quot;/pass/&quot;&gt;&lt;a style=&quot;color:#3C57EC&quot; href=&quot;/pass/&quot;&gt;
+&lt;p&gt;&lt;button class=&quot;btn&quot; data-clipboard-text=&quot;ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZnBLSWNuZEc4bXU=@138.197.135.247:41857/?outline=1&quot; href=&quot;/lab/fwbp/en/pass/&quot;&gt;&lt;a style=&quot;color:#3C57EC&quot; href=&quot;/lab/fwbp/en/pass/&quot;&gt;
     Tap here to access
     &lt;/a&gt;
 &lt;/button&gt;&lt;/p&gt;
